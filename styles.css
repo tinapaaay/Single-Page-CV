@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+h1 {
+    margin-top: 1em;
+}
+
+h2 {
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    color: rgb(111, 145, 60);
+}
+
+h3 {
+    margin-top: 0.5em;
+}
+
+p {
+    margin-top: 0.5em;
+    line-height: 1.5;
+}
+
+address {
+    line-height: 1.5em;
+}
+
+address a {
+    color: black;
+}
+
+ul li {
+    margin-left: 30px;
+    margin-top: 0.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+social-links {
+
+}
+
+.duration {
+    margin-top: 0.5em;
+    font-style: italic;
+}
+
+.certificate-name {
+    font-weight: bold;
+}
